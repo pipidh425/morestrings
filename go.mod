@@ -1,3 +1,3 @@
-module example.com/user/morestrings
+module github.com/pipidh425/morestrings
 
 go 1.14
